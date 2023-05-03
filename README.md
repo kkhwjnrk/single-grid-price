@@ -12,7 +12,7 @@ This project was built using a mobile-first approach, meaning that the styles we
 
 ### 🚀 Live Demo
 
-You can check out the live demo of this project [here](https://www.single-price.kkhwjnrk.vercel.app).
+You can check out the live demo of this project [here](https://single-grid-price.kkhwjnrk.vercel.app/).
 
 ### 👤 Frontend Mentor Profile
 
